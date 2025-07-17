@@ -128,8 +128,8 @@ if st.button("Tạo file Word"):
                     section.footer.paragraphs[0].clear()
                     section.header_distance = Cm(0.1)
                     section.footer_distance = Cm(0.1)
-                    section.top_margin = Cm(0.5)
-                    section.bottom_margin = Cm(0.5)
+                    section.top_margin = Cm(0.1)
+                    section.bottom_margin = Cm(0.1)
                     section.left_margin = Cm(0.5)
                     section.right_margin = Cm(0.5)
 
